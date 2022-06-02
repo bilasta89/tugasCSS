@@ -1,0 +1,46 @@
+body{
+    background-color: darkslategrey;
+    color: #F3F4F6;
+    font-size: 400px;
+    font-family: sans-serif;
+    
+  }
+
+.siswa:hover{
+    background-color:white;
+    color: #111827;
+    text-transform: capitalize;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+/* .siswa {
+ 
+  
+}
+
+.p {
+  margin: 0px;
+
+} */
+
+/* .siswa {
+  background-color: grey;
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 50px;
+  padding-left: 10px;
+ margin: 0, 0, 0, 0;
+} */
+
+
+/* p:nth-child(1) {
+  background-color: white;
+}
+
+p:nth-child(5) {
+  background-color: white;
+} */

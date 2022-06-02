@@ -1,0 +1,16 @@
+body{
+    background-color: gainsboro;
+}
+
+.siswa:hover{
+    background-color: #E5E7EB;
+    
+}
+
+p:nth-child(1) {
+    background-color: #60A5FA;
+  }
+
+  p:nth-child(5) {
+    background-color: #F87171;
+  }

@@ -1,0 +1,43 @@
+body{
+  
+    color: black;
+    font-size: 250px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+       
+  }
+
+.a:hover{
+  background-color: gainsboro;
+  color: black;
+  /* display: block; */
+    
+}
+
+.a{
+  text-decoration: none;
+  color: black;
+}
+
+.b{
+  text-decoration: none;
+  color: black;
+}
+
+.nav {
+  background-color: lightskyblue;
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  margin: auto;
+}
+
+
+/* p:nth-child(1) {
+  background-color: white;
+}
+
+p:nth-child(5) {
+  background-color: white;
+} */
